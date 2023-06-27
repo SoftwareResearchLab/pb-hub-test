@@ -1,0 +1,23 @@
+{
+  "mainNodeTitle": "collections-node-title",
+  "collectionsNodeDescription": "collections node description",
+  "authorName": "author name",
+  "collectionsNodeLink": "https://github.com/SoftwareResearchLab/pb-default/blob/main/data/models/node-model/README.md",
+  "collections": [
+    {
+      "link": "https://raw.githubusercontent.com/SoftwareResearchLab/pb-default/main/data/models/collection-model/pb-cm-2023-06-26-6-38-21-PM.json",
+      "title": "Collection Title 1",
+      "key": "decryption-key-1"
+    },
+    {
+      "link": "https://raw.githubusercontent.com/SoftwareResearchLab/pb-default/main/data/models/collection-model/pb-cm-2023-06-26-6-38-21-PM.json",
+      "title": "Collection Title 2",
+      "key": "decryption-key-2"
+    },
+    {
+      "link": "https://raw.githubusercontent.com/SoftwareResearchLab/pb-default/main/data/models/collection-model/pb-cm-2023-06-26-6-38-21-PM.json",
+      "title": "Collection Title 3",
+      "key": "decryption-key-3"
+    }
+  ]
+}

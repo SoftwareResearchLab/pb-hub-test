@@ -1,0 +1,53 @@
+{
+  "mainTitle": "collection-title",
+  "collectionDescription": "collection description",
+  "authorName": "author name",
+  "collectionLink": "https://github.com/SoftwareResearchLab/pb-hub/blob/main/data/models/collection-model/README.md",
+  "prompts_collection_structure": [
+    {
+      "parentCategoryName": "parent-category-title-1",
+      "childSubCategory1": [
+        "sub-category-title-1-1",
+        "your prompt-1-1-1",
+        "your prompt-1-1-2"
+      ],
+      "childSubCategory2": [
+        "sub-category-title-1-2",
+        "your prompt-1-2-1",
+        "your prompt-1-2-2"
+      ]
+    },
+    {
+      "parentCategoryName": "parent-category-title-2",
+      "childSubCategory1": [
+        "sub-category-title-2-1",
+        "your prompt-2-1-1",
+        "your prompt-2-1-2"
+      ],
+      "childSubCategory2": [
+        "sub-category-title-2-2",
+        "your prompt-2-2-1",
+        "your prompt-2-2-2"
+      ]
+    },
+    {
+      "parentCategoryName": "parent-category-title-3",
+      "childSubCategory1": [
+        "sub-category-title-3-1",
+        "your prompt-3-1-1",
+        "your prompt-3-1-2"
+      ],
+      "childSubCategory2": [
+        "sub-category-title-3-2",
+        "your prompt-3-2-1",
+        "your prompt-3-2-2"
+      ]
+    },
+    {
+      "parentCategoryName": "details",
+      "general": ["headlines-general", "Description:"],
+      "rules": ["headlines-rules", "Rules to follow:"],
+      "codeSnippet": ["headlines-code", "Code snippet"]
+    }
+  ]
+}
